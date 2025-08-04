@@ -1,4 +1,4 @@
-# Fan Remote 🌬️
+<img width="1046" height="2268" alt="image" src="https://github.com/user-attachments/assets/b96a37ab-a653-4216-95ab-54cced440481" /># Fan Remote 🌬️
 
 An Android application that turns your smartphone into a remote control for your fan. This app uses your device's built-in Infrared (IR) blaster to send signals, allowing you to control power, speed, swing, and other functions directly from your phone.
 
@@ -11,6 +11,11 @@ The UI is built with Jetpack Compose, featuring a modern, dark theme for a clean
 **This application is specifically designed for the *Maspion MWF 3601 RC* fan model.**
 
 Button functions and infrared (IR) signals may **not be compatible** or may work differently with other fan models or brands. Use on unsupported devices may lead to unexpected behavior.
+
+---
+## 📸 Screenshots
+
+<img width="1046" height="2268" alt="image" src="https://github.com/user-attachments/assets/5a132773-b5fa-4d60-972b-85d6ac10bed6" />
 
 ---
 
