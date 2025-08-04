@@ -15,7 +15,7 @@ Button functions and infrared (IR) signals may **not be compatible** or may work
 ---
 ## 📸 Screenshots
 
-<img width="1046" height="2268" alt="image" src="https://github.com/user-attachments/assets/5a132773-b5fa-4d60-972b-85d6ac10bed6" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/5a132773-b5fa-4d60-972b-85d6ac10bed6" />
 
 ---
 
