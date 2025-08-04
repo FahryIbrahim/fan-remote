@@ -1,4 +1,4 @@
-<img width="1046" height="2268" alt="image" src="https://github.com/user-attachments/assets/b96a37ab-a653-4216-95ab-54cced440481" /># Fan Remote 🌬️
+# Fan Remote 🌬️
 
 An Android application that turns your smartphone into a remote control for your fan. This app uses your device's built-in Infrared (IR) blaster to send signals, allowing you to control power, speed, swing, and other functions directly from your phone.
 
